@@ -1,2 +1,2 @@
-# My-KiCad-Library
+# MyLib
 My Footprint Library
